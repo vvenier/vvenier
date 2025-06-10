@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Altium_Designer-000000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
 </p>
 
-> *Note: Some tools (like LTSpice and Altium Designer) don't have official logos in badges, so similar styles are used for consistency.*
-
 ## 🚀 Featured Projects
 
 - 🎵 [MP3 Player](https://github.com/cutignolai/MP3-Player.git) – Embedded MP3 player with display and controls
