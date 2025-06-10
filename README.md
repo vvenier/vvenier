@@ -26,34 +26,19 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
 </p>
 
-## 🚀 Featured Projects
+## 📌 Some of the projects I'm proud of
 
-<table>
-  <tr>
-    <td>
-      <h4>🎵 <a href="https://github.com/cutignolai/MP3-Player.git">MP3 Player</a></h4>
-      <p>Embedded MP3 player with display and physical controls.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🔊 <a href="https://github.com/inequihi/ASSD-TP4.git">ASSD TP4</a></h4>
-      <p>Audio signal processing using IIR/FIR digital filters implemented in C and Python.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🎛️ <a href="https://github.com/odevincenti/TC_TP4.git">TC TP4</a></h4>
-      <p>Design and simulation of a feedback control system. Includes transfer functions, Bode plots and step responses.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>⚙️ <a href="https://github.com/odevincenti/TC-TP1.git">TC TP1</a></h4>
-      <p>Dynamic system modeling and open-loop simulation using differential equations and Laplace transforms.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Project | Description | Language | ⭐ Stars | 🍴 Forks |
+|--------|-------------|----------|---------|----------|
+| 🎵 [MP3 Player](https://github.com/cutignolai/MP3-Player) | MP3 player using Kinetis K64F microcontroller and MCUXpresso IDE. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ⭐ 2 | 🍴 1 |
+| 🎛️ [ASSD TP4](https://github.com/inequihi/ASSD-TP4) | Audio DSP project with IIR/FIR filters implemented in C and Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ 1 | 🍴 0 |
+| ⚙️ [TC TP4](https://github.com/odevincenti/TC_TP4) | Control system design with Bode plots and simulation. | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) | ⭐ 0 | 🍴 0 |
+| 🔧 [TC TP1](https://github.com/odevincenti/TC-TP1) | System modeling and open-loop response analysis. | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) | ⭐ 0 | 🍴 0 |
+
+</div>
+
 
 ## 📫 Contact
 
