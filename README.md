@@ -28,10 +28,32 @@
 
 ## 🚀 Featured Projects
 
-- 🎵 [MP3 Player](https://github.com/cutignolai/MP3-Player.git) – Embedded MP3 player with display and controls  
-- 🔊 [ASSD TP4](https://github.com/inequihi/ASSD-TP4.git) – Digital signal processing using filters  
-- 🎛️ [TC TP4](https://github.com/odevincenti/TC_TP4.git) – Control Theory: design and analysis of control systems  
-- ⚙️ [TC TP1](https://github.com/odevincenti/TC-TP1.git) – Modeling and simulation of dynamic systems  
+<table>
+  <tr>
+    <td>
+      <h4>🎵 <a href="https://github.com/cutignolai/MP3-Player.git">MP3 Player</a></h4>
+      <p>Embedded MP3 player with display and physical controls.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🔊 <a href="https://github.com/inequihi/ASSD-TP4.git">ASSD TP4</a></h4>
+      <p>Audio signal processing using IIR/FIR digital filters implemented in C and Python.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🎛️ <a href="https://github.com/odevincenti/TC_TP4.git">TC TP4</a></h4>
+      <p>Design and simulation of a feedback control system. Includes transfer functions, Bode plots and step responses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>⚙️ <a href="https://github.com/odevincenti/TC-TP1.git">TC TP1</a></h4>
+      <p>Dynamic system modeling and open-loop simulation using differential equations and Laplace transforms.</p>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
