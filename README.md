@@ -1,27 +1,34 @@
-# 👋 Hola, soy Valentino Venier Anache
+# 👋 Hi, I'm Valentino Venier Anache
 
-🎓 Estudiante de ingeniería apasionado por el desarrollo de software y hardware embebido.  
-🔬 Me interesa combinar electrónica, programación y simulación para crear soluciones eficientes e innovadoras.
+🎓 Electronics engineering student passionate about embedded systems, software development, and simulation.  
+🔬 I enjoy combining electronics, code, and modeling tools to build efficient and innovative solutions.
 
-## 🛠️ Tecnologías favoritas
+## 🛠️ Favorite Technologies
 
-- ⚙️ C / C++
-- 📱 Kotlin
-- 🧪 Python / Matlab
-- 💻 LTSpice / Altium Designer
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LTSpice-E76000?style=for-the-badge&logoColor=white" alt="LTSpice"/>
+  <img src="https://img.shields.io/badge/Altium_Designer-000000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+</p>
 
-## 💼 Proyectos destacados
+> *Note: Some tools (like LTSpice and Altium Designer) don't have official logos in badges, so similar styles are used for consistency.*
 
-- 🎵 [MP3 Player](https://github.com/cutignolai/MP3-Player.git) — Reproductor MP3 embebido
-- 📈 [ASSD TP4](https://github.com/inequihi/ASSD-TP4.git) — Procesamiento de señales con filtros digitales
-- 🎚️ [TC TP4](https://github.com/odevincenti/TC_TP4.git) — Trabajo práctico de Teoría de Control
-- ⚙️ [TC TP1](https://github.com/odevincenti/TC-TP1.git) — Análisis y simulación de sistemas de control
+## 🚀 Featured Projects
 
-## 📫 Contacto
+- 🎵 [MP3 Player](https://github.com/cutignolai/MP3-Player.git) – Embedded MP3 player with display and controls
+- 🔊 [ASSD TP4](https://github.com/inequihi/ASSD-TP4.git) – Digital signal processing using filters
+- 🎛️ [TC TP4](https://github.com/odevincenti/TC_TP4.git) – Control Theory: design and analysis of control systems
+- ⚙️ [TC TP1](https://github.com/odevincenti/TC-TP1.git) – Modeling and simulation of dynamic systems
 
-- 📧 Email académico: [vvenier@itba.edu.ar](mailto:vvenier@itba.edu.ar)  
-- 📧 Email personal: [valentinovenieranache@hotmail.com](mailto:valentinovenieranache@hotmail.com)  
-- 💼 LinkedIn: [valentinovenieranache](https://www.linkedin.com/in/valentinovenieranache/)
+## 📫 Contact
+
+- 📧 Academic email: [vvenier@itba.edu.ar](mailto:vvenier@itba.edu.ar)  
+- 📧 Personal email: [valentinovenieranache@hotmail.com](mailto:valentinovenieranache@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/valentinovenieranache](https://www.linkedin.com/in/valentinovenieranache/)
 
 ## 📊 GitHub Stats
 
@@ -29,4 +36,4 @@
 
 ---
 
-_“La ingeniería no es solo resolver problemas... es imaginar cómo mejorar el mundo.”_
+_“Engineering is not just about solving problems… it’s about imagining how to improve the world.”_
