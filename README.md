@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Valentino Venier Anache
+# 👋 Hi, I'm Valo
 
 🎓 Electronics engineering student passionate about embedded systems, software development, and simulation.  
 🔬 I enjoy combining electronics, code, and modeling tools to build efficient and innovative solutions.
